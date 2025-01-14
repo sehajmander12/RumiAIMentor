@@ -58,7 +58,6 @@ By surrendering attachments and embracing the unknown, we create space for profo
 ---
 
 ## **Dependencies**
-- **Python**: 3.8+
 - **Libraries**:
   - `torch`
   - `transformers`
